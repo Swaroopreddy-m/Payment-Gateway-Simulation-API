@@ -72,7 +72,7 @@
             amount: document.getElementById("amount").value
         };
 
-        fetch("http://localhost:8080/payments", {
+        fetch("http://localhost:8080/paymentsx`", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",

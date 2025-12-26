@@ -1,5 +1,3 @@
-
-
 public class LuhnValidator {
 
     public static boolean isValid(String cardNumber) {
